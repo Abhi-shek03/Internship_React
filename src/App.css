@@ -1,0 +1,4 @@
+@value footerHeight from './components/common/styles/elements.css' ;
+.wrapperContent{
+  margin-bottom: footerHeight;
+}
